@@ -9,4 +9,8 @@ In the .py file, I have used:
 - **Matplotlib: PyPlot, .plot() + .bar() functions**  
 
 I ran the code in a Jupyter Notebook which provided the following output:  
-IMAGES
+
+<img src="https://user-images.githubusercontent.com/96722899/151237064-c9127db4-a417-4b84-af98-09d6998e9e9b.jpg" width="333" height="231">  
+<img src="https://user-images.githubusercontent.com/96722899/151237061-db06fc71-02d5-4f68-9827-944bcfd8fbc9.jpg" width="333" height="231">
+
+Cannot wait to dig deeper!
