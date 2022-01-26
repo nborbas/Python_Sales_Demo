@@ -22,8 +22,8 @@ plt.plot(df_daily['Days'], df_daily['Sales - Running'], color = 'teal')
 
 #Adding formatting attributes
 plt.xlabel('Day')
-plt.ylabel('Running Sum of Units Sold')
-plt.title('Daily Sales')
+plt.ylabel('Units Sold')
+plt.title('Running Sum of Sales')
 
 #Show line chart
 plt.show()
